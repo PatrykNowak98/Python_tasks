@@ -12,7 +12,7 @@ pip install Flask
 set FLASK_APP=hello.py
 flask run
 (sprawdź i skopiuj adres strony)
-## 3. Utworzenie pliku requirements.txt
+## 4. Utworzenie pliku requirements.txt
 pip install pipreqs
 pipreqs
 ### Adres strony:
